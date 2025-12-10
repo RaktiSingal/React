@@ -13,6 +13,7 @@ Content of each EPISODE
 5. Making proper file structure for components, using constants, and making filter button (top restaurants), useState hooks
 6. Making search bar, using useEffect
 7. Routing in React, Nav options in header to have clickable links, each restaurant menu navigation, useParam, <Link>, Error component
+8. Class based component, lifecycle hooks, state variable
 
 
 
