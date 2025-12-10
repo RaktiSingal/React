@@ -1,0 +1,27 @@
+{
+  "name": "ep-02",
+  "version": "1.0.0",
+  "description": "Episode 8 for react",
+  "scripts": {
+    "test": "jest",
+    "start": "parcel ep-8.html",
+    "build": "parcel build ep-8.html"
+  },
+  "keywords": [
+    "react"
+  ],
+  "author": "Rakti",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.16.3"
+  },
+  "dependencies": {
+    "react": "^19.2.1",
+    "react-dom": "^19.2.1",
+    "react-router-dom": "^6.30.2"
+  },
+  "browserlist": [
+    "last 12 Chrome versions",
+    "last 2 Firefox versions"
+  ]
+}
