@@ -17,6 +17,8 @@ Content of each EPISODE
 9. Lazy loading for optimizing app, suspense component, online status, custom hooks
 10. CSS using tailwind
 11. Higher order component, Controlled and uncontrolled components, Context (useContext, createContext, updating value, using in function and class based component)
+12. Installed reduxjs/toolkit, building store, having slices and updating cart value on click
+13. 
 
 
 
