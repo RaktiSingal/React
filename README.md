@@ -15,6 +15,8 @@ Content of each EPISODE
 7. Routing in React, Nav options in header to have clickable links, each restaurant menu navigation, useParam, <Link>, Error component
 8. Class based component, lifecycle hooks, state variable
 9. Lazy loading for optimizing app, suspense component, online status, custom hooks
+10. CSS using tailwind
+11. Higher order component, Controlled and uncontrolled components
 
 
 
