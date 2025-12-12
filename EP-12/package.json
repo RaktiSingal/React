@@ -1,0 +1,32 @@
+{
+  "name": "ep-02",
+  "version": "1.0.0",
+  "description": "Episode 12 for react",
+  "scripts": {
+    "test": "jest",
+    "start": "parcel ep-12.html",
+    "build": "parcel build ep-12.html"
+  },
+  "keywords": [
+    "react"
+  ],
+  "author": "Rakti",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.16.3",
+    "postcss": "^8.5.6",
+    "tailwindcss": "^4.1.17"
+  },
+  "dependencies": {
+    "@reduxjs/toolkit": "^2.11.1",
+    "@tailwindcss/postcss": "^4.1.17",
+    "react": "^19.2.1",
+    "react-dom": "^19.2.1",
+    "react-redux": "^9.2.0",
+    "react-router-dom": "^6.30.2"
+  },
+  "browserlist": [
+    "last 12 Chrome versions",
+    "last 2 Firefox versions"
+  ]
+}
